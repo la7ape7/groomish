@@ -1,0 +1,23 @@
+{
+  "name": "groomish",
+   "version": "1.0.3",
+  "main": "index.js",
+  "keywords": [
+    "dateFormat",
+    "formarTime",
+    "aaaaa"
+  ],
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/la7ape7/groomish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Provides the function of formatting time",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
